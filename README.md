@@ -6,3 +6,5 @@
 <p>I've noticed that computers, even ones running AI are not random. The limited training of these bots has proven that computers have no ability to be random. The output from the bots will always loop at some point or another no matter what question is. Below is a link to the output from pycharm. </p>
 
 <a style="text-align:center" href="https://pastebin.com/raw/bCfbjMFv">Here</a>
+
+<p> Will and Gill aren't packaged due to an incompatibility between pyinstaller, chatterbot, and broken dependancies that need manual fixing.</p>
